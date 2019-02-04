@@ -1,8 +1,4 @@
-# Project Title
-
-Shopping List using the MERN stack
-
-## Project Overview
+# Shopping List using the MERN stack
 
 This project was built using CRA on the client side and Node, Express and Mongo on the backend. It also uses Redux to manage state across the application.
 
